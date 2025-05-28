@@ -1,6 +1,7 @@
 Administrator-Linux. Professional.
 
 Скриншот
-![Скриншот](https://github.com/user-attachments/assets/80fddc4c-f245-44b4-9bb6-e865ef27ce2b)
+![Скриншот1](https://github.com/user-attachments/assets/3d5421a2-d20e-4458-b6d3-227058c5512f)
+
 Скриншот 2
-![Скриншот1](https://github.com/user-attachments/assets/668aa65c-4dd6-41ac-a5fd-e6c18d60d0c6)
+![Скриншот1](https://github.com/user-attachments/assets/ae40126f-a0a7-4be3-abe0-45143c9ed3a5)
